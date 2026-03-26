@@ -7,7 +7,7 @@ The radio system can be a bit **unstable**. The messages each Micro:bit receives
 
 #### Current configuration:
 
-Radio Group (frequency): 33
+Radio Group (frequency): 44
 
 Message 1: Hello! :)
 
